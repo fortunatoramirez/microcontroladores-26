@@ -5,8 +5,8 @@ La palanca del joystick permitirá seleccionar grupos de caracteres.
 * Mover a la izquierda o derecha: cambiar de grupo.
 * Mover hacia arriba o abajo: seleccionar un carácter del grupo.
 * Presionar el joystick: escribir el carácter seleccionado.
-* Seleccionar `<` y presionar: borrar el último carácter.
-* Mantener presionado el joystick: entrar o salir del modo de desplazamiento.
+* Borrar: para borrar el último caracter.
+* Mantener presionado el joystick: entrar o salir del modo de desplazamiento (scroll).
 * En modo de desplazamiento, mover arriba o abajo para recorrer el texto.
 
 ## Conexión de la pantalla OLED
@@ -47,7 +47,7 @@ Adafruit SSD1306
 
 ---
 
-## Probar la selección de caracteres
+## Probar
 
 1. Mover el joystick a la izquierda y a la derecha; arriba y abajo; y presionar (botón del joystick) para escribir el caracter. Probar espacios y borrar.
 2. Escribir suficiente texrto para verificar el scroll. Mantener el Joystick presionado para poner `MODO: SCROLL` y mover arriba y abajo. Presionar corto para regresar.
