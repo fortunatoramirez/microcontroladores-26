@@ -504,5 +504,6 @@ void mostrarTexto()
 ## Actividades 
 
 * Investigar el uso de size().
+* Realizar un modo de EDITAR que permita navegar en el texto como un cursor y editar en diferentes partes del texto.
 * Realizar una Biblioteca para escritura a apartir de este programa.
 
