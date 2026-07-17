@@ -1216,6 +1216,8 @@ void mostrarMensajeEscrito()
 * Investigar el funcionamiento de `SerialBT.connect()`.
 * Investigar el funcionamiento de `SerialBT.available()`.
 * Investigar el funcionamiento de `SerialBT.println()`.
+* Investigar apuntadores: uso de `*` y de `&`. Uso de apuntadores en funciones.
 * Explicar cómo se convierte una dirección MAC de texto a seis bytes.
+* Modificar el programa para regresar al estado inicial y poder seleccionar Master o Slave sin reiniciar el microcontrolador.
 * Modificar el programa para mostrar el nombre del alumno al enviar un mensaje.
 * Realizar una biblioteca a partir de las funciones de escritura y chat.
